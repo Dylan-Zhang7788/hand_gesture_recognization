@@ -1,0 +1,14 @@
+matplotlib
+scipy==1.5.4
+numpy==1.17.0
+pandas==0.19.5
+seaborn
+scikit_learn
+theano==0.9.0
+h5py==2.10.0
+Pillow
+opencv-python
+torch==1.10.1
+torchvision==0.10.1
+torchaudio==0.11.2
+rospy
